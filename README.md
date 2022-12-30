@@ -8,7 +8,8 @@ Data source: Kaggle
 
 We will be analyzing cardholders’ past data and history to predict default. If one is able to predict default even a month before its' occurrence, significant revenue savings can be made
     
-    **Sections**:
+    
+**Sections**:
     - Data import
     - EDA: getting insights regarding class imbalance, outliers, distributions, etc. from the data using different plots
     - Data Pre-processing: Null value and outliers treatment 
