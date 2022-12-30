@@ -3,7 +3,7 @@
 
 This notebook discusses about the whole data science project cycle involving EDA, visualizations, feature engineering, feature selection, model building.
 
-Data source: Kaggle
+Data source: Kaggle: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 
 We will be analyzing cardholders’ past data and history to predict default. If one is able to predict default even a month before its' occurrence, significant revenue savings can be made
@@ -24,5 +24,8 @@ We will be analyzing cardholders’ past data and history to predict default. If
     - Comparing model performances using different metrics like COnfusion matrix, Accuracy, TPR, FPR, ROC-AUC 
     - Observations
 
+
+Always welcome for feedbacks :)
+akashprabhakar427@gmail.com
 
 
