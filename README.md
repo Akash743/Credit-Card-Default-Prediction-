@@ -10,6 +10,8 @@ We will be analyzing cardholders’ past data and history to predict default. If
     
     
 **Sections**:
+
+
     - Data import
     - EDA: getting insights regarding class imbalance, outliers, distributions, etc. from the data using different plots
     - Data Pre-processing: Null value and outliers treatment 
